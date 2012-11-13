@@ -1,8 +1,0 @@
-category: Devel
-requires: linux-armv7hl-glibc linux-armv7hl-zlib
-external-source: linux-armv7hl-zlib
-sdesc: "minizip for Linux armv7hl toolchain"
-ldesc: "This package does NOT contain cygwin binaries.  Instead, it
-contains Linux armv7hl binaries.  It is for use with the
-linux-armv7hl-gcc cross compiler, and installs into the
-/usr/armv7hl-unknown-linux-gnueabi/sys-root/usr/{lib,include} directories."
